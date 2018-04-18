@@ -1,0 +1,43 @@
+<svg width="528" height="528" viewBox="0 0 528 528" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Group 3</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(4142 -2646)">
+<g id="Group 3">
+<g id="Ellipse" opacity="0.1">
+<use xlink:href="#path0_fill" transform="translate(-4142 2646)" fill="url(#paint0_radial)"/>
+</g>
+<g id="Ellipse" opacity="0.3">
+<use xlink:href="#path1_fill" transform="translate(-4106 2682)" fill="url(#paint1_radial)"/>
+</g>
+<g id="Ellipse" opacity="0.5">
+<use xlink:href="#path2_fill" transform="translate(-4070 2718)" fill="url(#paint2_radial)"/>
+</g>
+<g id="Ellipse">
+<use xlink:href="#path3_fill" transform="translate(-4032.61 2754.48)" fill="url(#paint3_linear)"/>
+</g>
+</g>
+</g>
+<defs>
+<radialGradient id="paint0_radial" cx="0.5" cy="0.5" r="0.5" gradientUnits="userSpaceOnUse" gradientTransform="matrix(740.488 740.488 -740.488 740.488 264 -476.488)">
+<stop offset="0.330435" stop-color="#F2F2F2" stop-opacity="0"/>
+<stop offset="0.664348" stop-color="#E65570"/>
+</radialGradient>
+<radialGradient id="paint1_radial" cx="0.5" cy="0.5" r="0.5" gradientUnits="userSpaceOnUse" gradientTransform="matrix(639.512 639.512 -639.512 639.512 228 -411.512)">
+<stop offset="0.330435" stop-color="#F2F2F2" stop-opacity="0"/>
+<stop offset="0.664348" stop-color="#E65570"/>
+</radialGradient>
+<radialGradient id="paint2_radial" cx="0.5" cy="0.5" r="0.5" gradientUnits="userSpaceOnUse" gradientTransform="matrix(538.537 538.537 -538.537 538.537 192 -346.537)">
+<stop offset="0.330435" stop-color="#F2F2F2" stop-opacity="0"/>
+<stop offset="0.664348" stop-color="#E65570"/>
+</radialGradient>
+<linearGradient id="paint3_linear" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(182.514 262.458 -213.52 520.043 190.098 -241.921)">
+<stop offset="0" stop-color="#FD988C"/>
+<stop offset="0.546961" stop-color="#FB808E"/>
+<stop offset="1" stop-color="#E65570"/>
+</linearGradient>
+<path id="path0_fill" d="M 528 264C 528 409.803 409.803 528 264 528C 118.197 528 0 409.803 0 264C 0 118.197 118.197 0 264 0C 409.803 0 528 118.197 528 264Z"/>
+<path id="path1_fill" d="M 456 228C 456 353.921 353.921 456 228 456C 102.079 456 0 353.921 0 228C 0 102.079 102.079 0 228 0C 353.921 0 456 102.079 456 228Z"/>
+<path id="path2_fill" d="M 384 192C 384 298.039 298.039 384 192 384C 85.9613 384 0 298.039 0 192C 0 85.9613 85.9613 0 192 0C 298.039 0 384 85.9613 384 192Z"/>
+<path id="path3_fill" d="M 309.218 154.609C 309.218 239.997 239.997 309.218 154.609 309.218C 69.2208 309.218 0 239.997 0 154.609C 0 69.2208 69.2208 0 154.609 0C 239.997 0 309.218 69.2208 309.218 154.609Z"/>
+</defs>
+</svg>

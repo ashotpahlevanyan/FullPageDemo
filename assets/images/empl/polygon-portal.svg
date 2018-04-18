@@ -1,0 +1,37 @@
+<svg width="452" height="567" viewBox="0 0 452 567" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Group 3</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(4104 -704)">
+<g id="Group 3">
+<g id="Polygon" filter="url(#filter0_d)">
+<use xlink:href="#path0_fill" transform="translate(-4089.31 704)" fill="url(#paint0_linear)"/>
+</g>
+<g id="Group">
+<g id="Ellipse 2" opacity="0.8">
+<use xlink:href="#path1_fill" transform="translate(-4091 1145)" fill="#C9445D"/>
+</g>
+<g id="Ellipse 2.1" opacity="0.04">
+<use xlink:href="#path2_fill" transform="translate(-4091 1145)"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" filterUnits="userSpaceOnUse" x="-4104" y="704" width="452" height="394" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
+<feOffset dx="0" dy="14"/>
+<feGaussianBlur stdDeviation="7"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.81 0 0 0 0 0.3564 0 0 0 0 0.438873 0 0 0 1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(106.007 404.839 -496.839 542.899 394.846 -257.742)">
+<stop offset="0.375691" stop-color="#FFFFFF"/>
+<stop offset="1" stop-color="#FAC3CD"/>
+</linearGradient>
+<path id="path0_fill" d="M 211.31 0L 422.62 366L 0 366L 211.31 0Z"/>
+<path id="path1_fill" d="M 427 63C 427 97.7939 331.413 126 213.5 126C 95.5872 126 0 97.7939 0 63C 0 28.2061 95.5872 0 213.5 0C 331.413 0 427 28.2061 427 63Z"/>
+<path id="path2_fill" d="M 213.5 56.7C 213.5 91.4939 213.5 126 213.5 126C 95.5872 126 0 97.7939 0 63C 0 28.2061 95.5872 0 213.5 0C 213.5 0 213.5 21.9061 213.5 56.7Z"/>
+</defs>
+</svg>

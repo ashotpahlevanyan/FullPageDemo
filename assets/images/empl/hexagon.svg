@@ -1,0 +1,17 @@
+<svg width="215" height="247" viewBox="0 0 215 247" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Polygon</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(1242 306)">
+<g id="Polygon">
+<use xlink:href="#path0_fill" transform="matrix(-1 -5.54929e-17 5.55294e-17 -1 -1011.48 -59.558)" fill="url(#paint0_linear)"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(136.188 181.832 -138.72 374.611 140.224 -162.615)">
+<stop offset="0" stop-color="#FD988C"/>
+<stop offset="0.546961" stop-color="#FB808E"/>
+<stop offset="1" stop-color="#E65570"/>
+</linearGradient>
+<path id="path0_fill" d="M 123.261 0L 230.009 61.6105L 230.009 184.831L 123.261 246.442L 16.5139 184.831L 16.5139 61.6105L 123.261 0Z"/>
+</defs>
+</svg>

@@ -1,0 +1,59 @@
+<svg width="528" height="457" viewBox="0 0 528 457" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Group 3</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(4128 -4559)">
+<g id="Group 3">
+<g id="Polygon" opacity="0.8">
+<use xlink:href="#path0_fill" transform="matrix(-0.5 -0.866025 0.866025 -0.5 -3799.88 4935.63)" fill="#E0E0E0"/>
+</g>
+<g id="Polygon" opacity="0.8">
+<use xlink:href="#path0_fill" transform="translate(-4043.8 4735.26)" fill="url(#paint1_linear)"/>
+<use xlink:href="#path0_fill" transform="translate(-4043.8 4735.26)" fill="#E0E0E0"/>
+</g>
+<g id="Polygon" opacity="0.8">
+<use xlink:href="#path0_fill" transform="translate(-4139 4887.79)" fill="#E0E0E0"/>
+</g>
+<g id="Polygon" opacity="0.8">
+<use xlink:href="#path0_fill" transform="translate(-3758.2 4887.79)" fill="#E0E0E0"/>
+</g>
+<g id="Polygon" opacity="0.8">
+<use xlink:href="#path1_fill" transform="matrix(0.499404 0.866369 -0.865681 0.500596 -3833.03 4649.34)" fill="#E0E0E0"/>
+</g>
+<g id="Polygon" opacity="0.8">
+<use xlink:href="#path0_fill" transform="matrix(-1 1.2266e-16 -1.2227e-16 -1 -3874.6 5012.36)" fill="#E0E0E0"/>
+</g>
+<g id="Polygon" opacity="0.8">
+<use xlink:href="#path0_fill" transform="matrix(-1 1.2266e-16 -1.2227e-16 -1 -3684.2 5012.36)" fill="#E0E0E0"/>
+</g>
+<g id="Polygon" opacity="0.8">
+<use xlink:href="#path1_fill" transform="matrix(-0.499404 -0.866369 0.865681 -0.500596 -3894.97 5089)" fill="#E0E0E0"/>
+</g>
+<g id="Polygon" filter="url(#filter0_d)">
+<use xlink:href="#path2_fill" transform="translate(-3948 4576)" fill="url(#paint9_linear)"/>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" filterUnits="userSpaceOnUse" x="-3961" y="4559" width="194" height="175" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
+<feOffset dx="0" dy="7"/>
+<feGaussianBlur stdDeviation="12"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.51 0 0 0 0 0.1581 0 0 0 0 0.1581 0 0 0 0.45 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<linearGradient id="paint1_linear" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(179 161 -4.83417 5.37463 31.2171 25.0549)">
+<stop offset="0" stop-color="#FFFFFF"/>
+<stop offset="0.900553" stop-color="#E65570"/>
+</linearGradient>
+<linearGradient id="paint9_linear" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(99.161 143.444 -116.007 284.224 103.281 -132.22)">
+<stop offset="0" stop-color="#FD988C"/>
+<stop offset="0.546961" stop-color="#FB808E"/>
+<stop offset="1" stop-color="#E65570"/>
+</linearGradient>
+<path id="path0_fill" d="M 84.6 0L 157.866 127.102L 11.3343 127.102L 84.6 0Z"/>
+<path id="path1_fill" d="M 84.701 0L 158.054 126.951L 11.3478 126.951L 84.701 0Z"/>
+<path id="path2_fill" d="M 84 0L 156.746 126.75L 11.2539 126.75L 84 0Z"/>
+</defs>
+</svg>
